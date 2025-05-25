@@ -148,5 +148,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Inspired by stash/scratchpad functionality in tiling window managers
 
 ---
-
-**Repository Name**: `hyprstash`
